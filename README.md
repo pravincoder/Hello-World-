@@ -1,2 +1,2 @@
-# Hello-World my first game! 
-My first python project/game in github
+#  My first python game! 
+I hope u like it!
